@@ -19,7 +19,6 @@ A python script that implements the basics of pari mutuel betting
    - Conversely, less popular outcomes offer higher potential returns
 
 4. Code Implementation Relationship:
-   The enhanced code implements these concepts through several key components:
 
    a. Pool Management:
    ```python
