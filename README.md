@@ -18,7 +18,7 @@ A python script that implements the basics of pari mutuel betting
    - The more money bet on an outcome, the lower its odds become
    - Conversely, less popular outcomes offer higher potential returns
 
-4. Code Implementation Relationship:
+4. Code Breakdown:
 
    a. Pool Management:
    ```python
